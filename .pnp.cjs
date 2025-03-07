@@ -36,6 +36,8 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:16.18.126"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:19.0.4"],\
+          ["@typescript-eslint/eslint-plugin", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
+          ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
           ["classnames", "npm:2.5.1"],\
           ["craco-alias", "npm:3.0.1"],\
           ["eslint", "npm:8.57.0"],\
@@ -5489,6 +5491,43 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-eslint-plugin-npm-8.26.0-64bda8e44c-10c0.zip/node_modules/@typescript-eslint/eslint-plugin/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/eslint-plugin", "npm:8.26.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0", {\
+        "packageLocation": "./.yarn/__virtual__/@typescript-eslint-eslint-plugin-virtual-32da730587/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-eslint-plugin-npm-8.26.0-64bda8e44c-10c0.zip/node_modules/@typescript-eslint/eslint-plugin/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/eslint-plugin", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
+          ["@eslint-community/regexpp", "npm:4.12.1"],\
+          ["@types/eslint", null],\
+          ["@types/typescript", null],\
+          ["@types/typescript-eslint__parser", null],\
+          ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
+          ["@typescript-eslint/scope-manager", "npm:8.26.0"],\
+          ["@typescript-eslint/type-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0"],\
+          ["@typescript-eslint/utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0"],\
+          ["@typescript-eslint/visitor-keys", "npm:8.26.0"],\
+          ["eslint", "npm:8.57.0"],\
+          ["graphemer", "npm:1.4.0"],\
+          ["ignore", "npm:5.3.2"],\
+          ["natural-compare", "npm:1.4.0"],\
+          ["ts-api-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:2.0.1"],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "@types/typescript-eslint__parser",\
+          "@types/typescript",\
+          "@typescript-eslint/parser",\
+          "eslint",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["virtual:bb0ff6d0421e754bba386006aa49d54ad720205298a6d112264c2ad46a836d3f01843331cbfc9b5b5a3fed55d45cc6ba6ec5741545fbc093d9b3c51708e4243b#npm:5.62.0", {\
         "packageLocation": "./.yarn/__virtual__/@typescript-eslint-eslint-plugin-virtual-75e884f7b1/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-eslint-plugin-npm-5.62.0-c48b9a5492-10c0.zip/node_modules/@typescript-eslint/eslint-plugin/",\
         "packageDependencies": [\
@@ -5552,6 +5591,35 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-parser-npm-8.26.0-80aadd4d9c-10c0.zip/node_modules/@typescript-eslint/parser/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/parser", "npm:8.26.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0", {\
+        "packageLocation": "./.yarn/__virtual__/@typescript-eslint-parser-virtual-b4d10a026c/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-parser-npm-8.26.0-80aadd4d9c-10c0.zip/node_modules/@typescript-eslint/parser/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
+          ["@types/eslint", null],\
+          ["@types/typescript", null],\
+          ["@typescript-eslint/scope-manager", "npm:8.26.0"],\
+          ["@typescript-eslint/types", "npm:8.26.0"],\
+          ["@typescript-eslint/typescript-estree", "virtual:617452ef8d84046bd519664dd9d5dee602f56a3f5a0c7571605637481cf84203cd73923f14e607d872bf30a23315a52e6c26a8581903ab71e3005f62e3ec3cde#npm:8.26.0"],\
+          ["@typescript-eslint/visitor-keys", "npm:8.26.0"],\
+          ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.4.0"],\
+          ["eslint", "npm:8.57.0"],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "@types/typescript",\
+          "eslint",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["virtual:bb0ff6d0421e754bba386006aa49d54ad720205298a6d112264c2ad46a836d3f01843331cbfc9b5b5a3fed55d45cc6ba6ec5741545fbc093d9b3c51708e4243b#npm:5.62.0", {\
         "packageLocation": "./.yarn/__virtual__/@typescript-eslint-parser-virtual-85e37e7f3a/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-parser-npm-5.62.0-c6b29fa302-10c0.zip/node_modules/@typescript-eslint/parser/",\
         "packageDependencies": [\
@@ -5583,6 +5651,15 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/visitor-keys", "npm:5.62.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-scope-manager-npm-8.26.0-ef399f862d-10c0.zip/node_modules/@typescript-eslint/scope-manager/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/scope-manager", "npm:8.26.0"],\
+          ["@typescript-eslint/types", "npm:8.26.0"],\
+          ["@typescript-eslint/visitor-keys", "npm:8.26.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@typescript-eslint/type-utils", [\
@@ -5592,6 +5669,34 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/type-utils", "npm:5.62.0"]\
         ],\
         "linkType": "SOFT"\
+      }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-type-utils-npm-8.26.0-f34f57bfb3-10c0.zip/node_modules/@typescript-eslint/type-utils/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/type-utils", "npm:8.26.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0", {\
+        "packageLocation": "./.yarn/__virtual__/@typescript-eslint-type-utils-virtual-617452ef8d/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-type-utils-npm-8.26.0-f34f57bfb3-10c0.zip/node_modules/@typescript-eslint/type-utils/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/type-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0"],\
+          ["@types/eslint", null],\
+          ["@types/typescript", null],\
+          ["@typescript-eslint/typescript-estree", "virtual:617452ef8d84046bd519664dd9d5dee602f56a3f5a0c7571605637481cf84203cd73923f14e607d872bf30a23315a52e6c26a8581903ab71e3005f62e3ec3cde#npm:8.26.0"],\
+          ["@typescript-eslint/utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0"],\
+          ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.4.0"],\
+          ["eslint", "npm:8.57.0"],\
+          ["ts-api-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:2.0.1"],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "@types/typescript",\
+          "eslint",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
       }],\
       ["virtual:75e884f7b1ab4a19e7bb3516f5ed2774a36b68e92458856519d1c07f109c3799222cc8dc5dcd906d2c991c7a3a6b5df22f6014712dd0d0c6c0b2639ec9efd4d1#npm:5.62.0", {\
         "packageLocation": "./.yarn/__virtual__/@typescript-eslint-type-utils-virtual-1953e66f42/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-type-utils-npm-5.62.0-220216d668-10c0.zip/node_modules/@typescript-eslint/type-utils/",\
@@ -5622,6 +5727,13 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/types", "npm:5.62.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-types-npm-8.26.0-6090977dc6-10c0.zip/node_modules/@typescript-eslint/types/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/types", "npm:8.26.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@typescript-eslint/typescript-estree", [\
@@ -5629,6 +5741,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-typescript-estree-npm-5.62.0-5d1ea132a9-10c0.zip/node_modules/@typescript-eslint/typescript-estree/",\
         "packageDependencies": [\
           ["@typescript-eslint/typescript-estree", "npm:5.62.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-typescript-estree-npm-8.26.0-352c786ebb-10c0.zip/node_modules/@typescript-eslint/typescript-estree/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/typescript-estree", "npm:8.26.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
@@ -5644,6 +5763,27 @@ const RAW_RUNTIME_STATE =
           ["is-glob", "npm:4.0.3"],\
           ["semver", "npm:7.7.1"],\
           ["tsutils", "virtual:75e884f7b1ab4a19e7bb3516f5ed2774a36b68e92458856519d1c07f109c3799222cc8dc5dcd906d2c991c7a3a6b5df22f6014712dd0d0c6c0b2639ec9efd4d1#npm:3.21.0"],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/typescript",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:617452ef8d84046bd519664dd9d5dee602f56a3f5a0c7571605637481cf84203cd73923f14e607d872bf30a23315a52e6c26a8581903ab71e3005f62e3ec3cde#npm:8.26.0", {\
+        "packageLocation": "./.yarn/__virtual__/@typescript-eslint-typescript-estree-virtual-8a4be14d68/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-typescript-estree-npm-8.26.0-352c786ebb-10c0.zip/node_modules/@typescript-eslint/typescript-estree/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/typescript-estree", "virtual:617452ef8d84046bd519664dd9d5dee602f56a3f5a0c7571605637481cf84203cd73923f14e607d872bf30a23315a52e6c26a8581903ab71e3005f62e3ec3cde#npm:8.26.0"],\
+          ["@types/typescript", null],\
+          ["@typescript-eslint/types", "npm:8.26.0"],\
+          ["@typescript-eslint/visitor-keys", "npm:8.26.0"],\
+          ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.4.0"],\
+          ["fast-glob", "npm:3.3.3"],\
+          ["is-glob", "npm:4.0.3"],\
+          ["minimatch", "npm:9.0.5"],\
+          ["semver", "npm:7.7.1"],\
+          ["ts-api-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:2.0.1"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
         ],\
         "packagePeers": [\
@@ -5681,6 +5821,34 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-utils-npm-8.26.0-50b78242aa-10c0.zip/node_modules/@typescript-eslint/utils/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/utils", "npm:8.26.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0", {\
+        "packageLocation": "./.yarn/__virtual__/@typescript-eslint-utils-virtual-3138e20deb/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-utils-npm-8.26.0-50b78242aa-10c0.zip/node_modules/@typescript-eslint/utils/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:8.26.0"],\
+          ["@eslint-community/eslint-utils", "virtual:4286e12a3a0f74af013bc8f16c6d8fdde823cfbf6389660266b171e551f576c805b0a7a8eb2a7087a5cee7dfe6ebb6e1ea3808d93daf915edc95656907a381bb#npm:4.4.1"],\
+          ["@types/eslint", null],\
+          ["@types/typescript", null],\
+          ["@typescript-eslint/scope-manager", "npm:8.26.0"],\
+          ["@typescript-eslint/types", "npm:8.26.0"],\
+          ["@typescript-eslint/typescript-estree", "virtual:617452ef8d84046bd519664dd9d5dee602f56a3f5a0c7571605637481cf84203cd73923f14e607d872bf30a23315a52e6c26a8581903ab71e3005f62e3ec3cde#npm:8.26.0"],\
+          ["eslint", "npm:8.57.0"],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "@types/typescript",\
+          "eslint",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["virtual:75e884f7b1ab4a19e7bb3516f5ed2774a36b68e92458856519d1c07f109c3799222cc8dc5dcd906d2c991c7a3a6b5df22f6014712dd0d0c6c0b2639ec9efd4d1#npm:5.62.0", {\
         "packageLocation": "./.yarn/__virtual__/@typescript-eslint-utils-virtual-8f3b813bbc/3/Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-utils-npm-5.62.0-907f2d579e-10c0.zip/node_modules/@typescript-eslint/utils/",\
         "packageDependencies": [\
@@ -5710,6 +5878,15 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/visitor-keys", "npm:5.62.0"],\
           ["@typescript-eslint/types", "npm:5.62.0"],\
           ["eslint-visitor-keys", "npm:3.4.3"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:8.26.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/@typescript-eslint-visitor-keys-npm-8.26.0-ff1c3f4568-10c0.zip/node_modules/@typescript-eslint/visitor-keys/",\
+        "packageDependencies": [\
+          ["@typescript-eslint/visitor-keys", "npm:8.26.0"],\
+          ["@typescript-eslint/types", "npm:8.26.0"],\
+          ["eslint-visitor-keys", "npm:4.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -9548,6 +9725,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/eslint-visitor-keys-npm-3.4.3-a356ac7e46-10c0.zip/node_modules/eslint-visitor-keys/",\
         "packageDependencies": [\
           ["eslint-visitor-keys", "npm:3.4.3"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.2.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/eslint-visitor-keys-npm-4.2.0-a591434af3-10c0.zip/node_modules/eslint-visitor-keys/",\
+        "packageDependencies": [\
+          ["eslint-visitor-keys", "npm:4.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -17985,6 +18169,28 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["ts-api-utils", [\
+      ["npm:2.0.1", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/ts-api-utils-npm-2.0.1-03c1d3773a-10c0.zip/node_modules/ts-api-utils/",\
+        "packageDependencies": [\
+          ["ts-api-utils", "npm:2.0.1"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:2.0.1", {\
+        "packageLocation": "./.yarn/__virtual__/ts-api-utils-virtual-96060aa652/3/Users/min/AppData/Local/Yarn/Berry/cache/ts-api-utils-npm-2.0.1-03c1d3773a-10c0.zip/node_modules/ts-api-utils/",\
+        "packageDependencies": [\
+          ["ts-api-utils", "virtual:32da730587b643373b182aae3755d89f91727130899c167c2a64bb4fde458e9838514c2d0c54e9b9da55a771c6f2e81d2ec8b41dfa3c17e8bbe9839b1cd81e95#npm:2.0.1"],\
+          ["@types/typescript", null],\
+          ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"]\
+        ],\
+        "packagePeers": [\
+          "@types/typescript",\
+          "typescript"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ts-interface-checker", [\
       ["npm:0.1.13", {\
         "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/ts-interface-checker-npm-0.1.13-0c7b064494-10c0.zip/node_modules/ts-interface-checker/",\
@@ -18824,6 +19030,8 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:16.18.126"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:19.0.4"],\
+          ["@typescript-eslint/eslint-plugin", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
+          ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
           ["classnames", "npm:2.5.1"],\
           ["craco-alias", "npm:3.0.1"],\
           ["eslint", "npm:8.57.0"],\
