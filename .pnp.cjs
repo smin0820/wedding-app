@@ -40,6 +40,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
           ["classnames", "npm:2.5.1"],\
           ["craco-alias", "npm:3.0.1"],\
+          ["date-fns", "npm:4.1.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:10.0.2"],\
           ["eslint-config-react-app", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:7.0.1"],\
@@ -8392,6 +8393,15 @@ const RAW_RUNTIME_STATE =
           ["call-bound", "npm:1.0.3"],\
           ["es-errors", "npm:1.3.0"],\
           ["is-data-view", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["date-fns", [\
+      ["npm:4.1.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/date-fns-npm-4.1.0-764604ee0f-10c0.zip/node_modules/date-fns/",\
+        "packageDependencies": [\
+          ["date-fns", "npm:4.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -19034,6 +19044,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:8.26.0"],\
           ["classnames", "npm:2.5.1"],\
           ["craco-alias", "npm:3.0.1"],\
+          ["date-fns", "npm:4.1.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-prettier", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:10.0.2"],\
           ["eslint-config-react-app", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:7.0.1"],\
