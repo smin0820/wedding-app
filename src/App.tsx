@@ -7,6 +7,7 @@ import FullScreenMessage from './components/shared/FullScreenMessage'
 
 import Heading from './components/sections/Heading'
 import Video from './components/sections/Video'
+import ImageGallery from './components/sections/ImageGallery'
 
 import { Wedding } from '../src/models/wedding'
 
@@ -53,12 +54,13 @@ function App() {
     return null
   }
 
-  const { date } = wedding
+  const { date, galleryImages } = wedding
 
   return (
     <div className={cx('container')}>
       <Heading date={date} />
       <Video />
+      <ImageGallery images={galleryImages} />
       {JSON.stringify(wedding)}
     </div>
   )
