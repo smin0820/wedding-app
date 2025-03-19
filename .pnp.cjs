@@ -51,7 +51,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:19.0.0"],\
           ["react-scripts", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:5.0.1"],\
-          ["sass", "npm:1.85.1"],\
+          ["sass", "npm:1.86.0"],\
           ["swiper", "npm:9.4.1"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["web-vitals", "npm:2.1.4"]\
@@ -16800,10 +16800,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sass", [\
-      ["npm:1.85.1", {\
-        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/sass-npm-1.85.1-330947ad29-10c0.zip/node_modules/sass/",\
+      ["npm:1.86.0", {\
+        "packageLocation": "../../Users/min/AppData/Local/Yarn/Berry/cache/sass-npm-1.86.0-56b821d79d-10c0.zip/node_modules/sass/",\
         "packageDependencies": [\
-          ["sass", "npm:1.85.1"],\
+          ["sass", "npm:1.86.0"],\
           ["@parcel/watcher", "npm:2.5.1"],\
           ["chokidar", "npm:4.0.3"],\
           ["immutable", "npm:5.0.3"],\
@@ -19075,7 +19075,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:19.0.0"],\
           ["react-scripts", "virtual:996156a470ecc57298393ab821448f47e7b8e817d01a57d1581bb7501d66003935a0243cbc4492bc3bff77d4c3ce7870c7cb42f825196778404ddfcc8caffea8#npm:5.0.1"],\
-          ["sass", "npm:1.85.1"],\
+          ["sass", "npm:1.86.0"],\
           ["swiper", "npm:9.4.1"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["web-vitals", "npm:2.1.4"]\
