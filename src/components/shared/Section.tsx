@@ -11,7 +11,7 @@ export default function Section({
 }: {
   children: React.ReactNode
   className?: string
-  title?: string
+  title?: React.ReactNode
 }) {
   return (
     <section className={cx(['container', className])}>
