@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'NanumGothic';
     src: 
-        url("../assets/fonts/NanumGothic.woff2") format("woff2"),
-        url("../assets/fonts/NanumGothic.woff") format("woff")
+        url("../assets/fonts/subset-NanumGothic.woff2") format("woff2"),
+        url("../assets/fonts/subset-NanumGothic.woff") format("woff");
+    font-display: fallback;
 }
